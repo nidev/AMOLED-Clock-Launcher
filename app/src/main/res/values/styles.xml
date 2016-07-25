@@ -1,0 +1,14 @@
+<resources>
+    <style name="ampmText">
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ddd</item>
+    </style>
+
+    <style name="timeText">
+        <item name="android:textSize">280sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+</resources>
